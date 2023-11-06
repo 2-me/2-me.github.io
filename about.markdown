@@ -16,3 +16,6 @@ How can we leverage our insights into the functionality of the human brain to cr
 
 ## Future Goals
 Predicting the future is hard. I am currently open to many possible paths.
+
+## Resume
+You can find my resume [here](Twomey_Resume.pdf)
