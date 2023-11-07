@@ -19,7 +19,7 @@ Have a great day.
 I got my undergraduate education at Virginia Tech attaining bachelor's degrees in computer science and economics. While a student I had the opportunity to do research with the [SyNeRGy Lab](https://synergy.cs.vt.edu/) under Dr. Feng looking into productivity of FPGAs in HPC environments. After graduating I spent a couple years with the [Montague Lab](https://fbri.vtc.vt.edu/research/labs/montague.html) developing with deep neural networks to gain insights into neurotransmitter dynamics in awake human brains.
 
 ## Research Interests
-I am broadly interested in neuromorphic approaches to novel computer architectures. Specifically how we can leverage our insights into the functionality of the human brain to create computer architectures that have more the brains desirable characteristics. Further I am interested in the questions of: How do we create hardware that implements effective local learning rules? How can use sparse spatio-temporal encodings to create architectures that scale in 3d? 
+I am broadly interested in neuromorphic approaches to novel computer architectures. Specifically how we can leverage our insights into the functionality of the human brain to create computer architectures that have more of the brain's desirable characteristics. Further I am interested in the questions of: How do we create hardware that implements effective local learning rules? How can use sparse spatio-temporal encodings to create architectures that scale in 3d? 
 
 ## Future Goals
 Predicting the future is hard. I am currently open to many possible paths.
