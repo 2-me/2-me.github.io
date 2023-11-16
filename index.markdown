@@ -5,13 +5,7 @@
 layout: home
 ---
 
-
-Hi there. How are you?
-
 My name is Tom Twomey. I am a PhD student studying computer architecture at the University of Michigan. Below are some more details and my contact info.
-
-Have a great day.
-
 
 # Bio
 
@@ -20,9 +14,6 @@ I got my undergraduate education at Virginia Tech attaining bachelor's degrees i
 
 ## Research Interests
 I am broadly interested in neuromorphic approaches to novel computer architectures. Specifically how we can leverage our insights into the functionality of the human brain to create computer architectures that have more of the brain's desirable characteristics. Further I am interested in the questions of: How do we create hardware that implements effective local learning rules? How can use sparse spatio-temporal encodings to create architectures that scale in 3d? 
-
-## Future Goals
-Predicting the future is hard. I am currently open to many possible paths.
 
 ## Resume
 You can find my resume [here](Twomey_Resume.pdf).
