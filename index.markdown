@@ -19,12 +19,12 @@ You can find my resume [here](Twomey_Resume.pdf).
 
 # Research
 
-I am doing research in [George Tzimpragos](https://www.georgetzimpragos.com/)'s lab at the University of Michigan.
+I am advised by [George Tzimpragos](https://www.georgetzimpragos.com/) and [Ronald Dreslinski](https://eecs.engin.umich.edu/people/dreslinski-ronald/).
 
 ## Current Projects:
 
 ### Race Logic in Image Sensing
-I am currently working on applications of race logic in vision sensors. The idea is that with digital temporal signals one can avoid costly analog to digital converters and do processing in the time domain with very low power requirements. After the temporal processing, a reduced amount of information can be converted to a binary digital representation for further use.
+We have been looking at applications of race logic in vision sensors. The idea is that with digital temporal signals one can avoid costly analog to digital converters and do processing in the time domain with very low power requirements. After the temporal processing, a reduced amount of information can be converted to a binary digital representation for further use.
 
 ## Publications
 
