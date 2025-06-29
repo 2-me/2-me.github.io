@@ -26,6 +26,8 @@ I am advised by [George Tzimpragos](https://www.georgetzimpragos.com/) and [Rona
 ### Race Logic in Image Sensing
 We have been looking at applications of race logic in vision sensors. The idea is that with digital temporal signals one can avoid costly analog to digital converters and do processing in the time domain with very low power requirements. After the temporal processing, a reduced amount of information can be converted to a binary digital representation for further use.
 
+Relevant Publication: [SEAL: A Single-Event Architecture for In-Sensor Visual Localization](https://dl.acm.org/doi/10.1145/3695053.3731034)
+
 ## Publications
 
 A full list of my publications is available on [my google scholar page](https://scholar.google.com/citations?user=p5aVCyIAAAAJ&hl=en).
