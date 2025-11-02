@@ -2,9 +2,57 @@
 layout: home
 ---
 
-![headshot](headshot.JPG){: width="300" }
+<style>
+.site-nav {
+  display: none !important;
+}
 
-My name is Tom Twomey. I am a PhD student studying computer architecture at the University of Michigan. Below is a brief [bio](#bio), a description of my [research interest](#research-interests), some details on [current](#current-projects) and [past projects](#past-projects), and my [contact info](#contact).
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+  font-weight: 500;
+}
+
+.intro-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.intro-image {
+  flex: 0 0 auto;
+}
+
+.intro-text {
+  flex: 1 1 400px;
+}
+
+.intro-text p {
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .intro-container {
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .intro-text {
+    flex: 1 1 auto;
+  }
+}
+</style>
+
+<div class="intro-container">
+  <div class="intro-image">
+    <img src="headshot.JPG" alt="headshot" width="300">
+  </div>
+  <div class="intro-text">
+    <p>My name is Tom Twomey. I am a PhD student studying computer architecture at the University of Michigan. Below is a brief <a href="#bio">bio</a>, a description of my <a href="#research-interests">research interest</a>, some details on <a href="#current-projects">current</a> and <a href="#past-projects">past projects</a>, and my <a href="#contact">contact info</a>.</p>
+  </div>
+</div>
 
 # Bio
 
